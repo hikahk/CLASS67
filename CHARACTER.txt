@@ -2,3 +2,4 @@ RABBIT
 TURTLE
 NARRATOR
 tosser
+umpire
